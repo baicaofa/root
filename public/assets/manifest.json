@@ -8,7 +8,7 @@
         "js": [
           "/assets/5d52a9f5a560b8f6.js",
           "/assets/b8003abb9a6112f0.js",
-          "/assets/062a7bd56791087f.js"
+          "/assets/076e6dcf7bb7a7be.js"
         ]
       }
     },
@@ -45,7 +45,7 @@
     "/assets/book-en-alice-wonderland.js": "/assets/6de4998f512766a6.js",
     "/assets/book-en-call-wild.js": "/assets/4b9d4a514b229f8e.js",
     "/assets/book-en-jekyll-hyde.js": "/assets/021ad883e249fb32.js",
-    "/assets/browser.js": "/assets/062a7bd56791087f.js",
+    "/assets/browser.js": "/assets/076e6dcf7bb7a7be.js",
     "/assets/cormorant-400.cyrillic.woff2": "/assets/6705a11e3cd32c87.woff2",
     "/assets/cormorant-400.latin-ext.woff2": "/assets/3b95fccba12c18fe.woff2",
     "/assets/cormorant-400.latin.woff2": "/assets/f5e33a67358923f6.woff2",
@@ -115,7 +115,7 @@
     "/assets/messages-tr.js": "/assets/6e2c5879fcbb404c.js",
     "/assets/messages-uk.js": "/assets/b9f8b808d4345b79.js",
     "/assets/messages-vi.js": "/assets/b41fadbb230e49f5.js",
-    "/assets/messages-zh-hans.js": "/assets/0e76e03ec4d04a60.js",
+    "/assets/messages-zh-hans.js": "/assets/2e110ae725dff736.js",
     "/assets/messages-zh-hant.js": "/assets/424680fb9757bb17.js",
     "/assets/model-ar.data": "/assets/63ffdf524d0608b1.data",
     "/assets/model-be.data": "/assets/703a8bc7a06e3123.data",
