@@ -8,7 +8,7 @@
         "js": [
           "/assets/5d52a9f5a560b8f6.js",
           "/assets/b8003abb9a6112f0.js",
-          "/assets/0f8886a481c410dd.js"
+          "/assets/062a7bd56791087f.js"
         ]
       }
     },
@@ -45,7 +45,7 @@
     "/assets/book-en-alice-wonderland.js": "/assets/6de4998f512766a6.js",
     "/assets/book-en-call-wild.js": "/assets/4b9d4a514b229f8e.js",
     "/assets/book-en-jekyll-hyde.js": "/assets/021ad883e249fb32.js",
-    "/assets/browser.js": "/assets/0f8886a481c410dd.js",
+    "/assets/browser.js": "/assets/062a7bd56791087f.js",
     "/assets/cormorant-400.cyrillic.woff2": "/assets/6705a11e3cd32c87.woff2",
     "/assets/cormorant-400.latin-ext.woff2": "/assets/3b95fccba12c18fe.woff2",
     "/assets/cormorant-400.latin.woff2": "/assets/f5e33a67358923f6.woff2",
@@ -67,9 +67,7 @@
     "/assets/example3.stats": "/assets/f6a87761542659fa.stats",
     "/assets/example4.stats": "/assets/2c1f5e9498a78045.stats",
     "/assets/example5.stats": "/assets/140e6a6297032ddd.stats",
-    "/assets/favicon-16x16.png": "/assets/97004352a40fade3.png",
-    "/assets/favicon-32x32.png": "/assets/a4de433bd238eb45.png",
-    "/assets/favicon-96x96.png": "/assets/934c99d37fc250c3.png",
+    "/assets/favicon-96x96.png": "/assets/8efd22b57debdcb0.png",
     "/assets/mechanical1-click1.mp3": "/assets/efe68487ab7140b4.mp3",
     "/assets/mechanical1-click2.mp3": "/assets/ac8a28b48c901b97.mp3",
     "/assets/mechanical1-click3.mp3": "/assets/26c56da97b0e79b4.mp3",
